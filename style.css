@@ -1182,3 +1182,48 @@ ul {
   color: #fff;
 }
 
+/* FOOOTER */
+
+.u-sheet-3 {
+  box-sizing: border-box;
+  min-height: 350px;
+  pointer-events: none;
+  background-color: #333333;
+  color: #fff;
+}
+
+.u-text-17 {
+  text-align: center;
+  position: relative;
+  top: 70px;
+  font-size: 16px;
+}
+
+.website-templates {
+  background-color: #333333;
+}
+.u-link {
+  color: #b8f0e2;
+  position: relative;
+  top: -100px;
+  text-decoration: underline;
+  font-size: 15px;
+  margin-left: 490px;
+}
+
+.created-with {
+  color: #fff;
+  text-align: center;
+  top: -122px;
+  position: relative;
+}
+
+.website-builder-software {
+  color: #b8f0e2;
+  position: relative;
+  top: -145px;
+  text-decoration: underline;
+  font-size: 15px;
+  margin-left: 730px;
+}
+
